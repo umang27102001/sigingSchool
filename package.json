@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "express": "^4.17.2",
+    "mongoose": "^6.1.6",
+    "nodemon": "^2.0.15"
+  },
+  "name": "singingschool",
+  "version": "1.0.0",
+  "description": "this is a singing website made by umang kanchan",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/umang27102001/SingingSchool.git"
+  },
+  "author": "Umang kanchan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/umang27102001/SingingSchool/issues"
+  },
+  "homepage": "https://github.com/umang27102001/SingingSchool#readme"
+}
